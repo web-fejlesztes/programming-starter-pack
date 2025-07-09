@@ -144,6 +144,12 @@ public class Main {
 }
 ```
 
+#### What is the difference between a class and an instance of a class?
+
+In simple terms, if a class is like a blueprint, an instance is like one of the houses built from that blueprint. The
+blueprint (class) can be used to create many houses (instances), and while they all follow the same design, each house
+can have its own unique characteristics.
+
 ## Next step
 
 In this case, the `Book` class and their instances don't have any attributes like title, author, and price.
@@ -213,7 +219,6 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 - B) AnnasBowl
 - C) annas_bowl
 - D) F-16
-
 
 <details>
 <summary>Answers</summary>

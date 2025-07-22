@@ -1,6 +1,21 @@
 # Web alapok
 
 <details>
+<summary><h2>❓ Hogyan lehetett számítógépeket összekapcsolni az internet előtt?</h2></summary>
+
+Az internet előtti korszakban is léteztek különféle módszerek a számítógépek összekapcsolására, de ezek jóval korlátozottabbak és kevésbé egységesek voltak:
+
+### 📞 1. Modemes kapcsolat telefonvonalon
+- Két gép közvetlenül összekapcsolódott telefonvonalon keresztül, modemet használva.
+- Így működtek a BBS-ek (Bulletin Board Systems) is.
+
+### 🖧 2. Helyi hálózatok (LAN)
+- Szervezeten belül Ethernet kábellel kötötték össze a számítógépeket.
+- Külső hozzáférés nem volt, csak belső kommunikáció.
+
+</details>
+
+<details>
 <summary><h2>❓ Miért volt szükség az internet kialakítására?</h2></summary>
 
 Az internet kialakítására többféle szükséglet és történelmi körülmény miatt került sor:

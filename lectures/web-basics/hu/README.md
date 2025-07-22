@@ -9,7 +9,7 @@ Az internet előtti korszakban is léteztek különféle módszerek a számító
 - Két gép közvetlenül összekapcsolódott telefonvonalon keresztül, modemet használva.
 - Így működtek a BBS-ek (Bulletin Board Systems) is.
 
-### 🖧 2. Helyi hálózatok (LAN)
+### 🖥️ 2. Helyi hálózatok (LAN)
 - Szervezeten belül Ethernet kábellel kötötték össze a számítógépeket.
 - Külső hozzáférés nem volt, csak belső kommunikáció.
 

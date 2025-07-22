@@ -1,15 +1,6 @@
 # Web alapok
 
 <details>
-<summary><h2>❓ Mi az internet?</h2></summary>
-
-💡 Az internet számítógépes hálózatok globális rendszere, amely lehetővé teszi az adatátvitelt, kommunikációt és információmegosztást.
-
-</details>
-
----
-
-<details>
 <summary><h2>❓ Miért volt szükség az internet kialakítására?</h2></summary>
 
 Az internet kialakítására többféle szükséglet és történelmi körülmény miatt került sor:
@@ -33,6 +24,15 @@ Az internet kialakítására többféle szükséglet és történelmi körülmé
 ### 💼 5. Gazdasági és technológiai fejlődés
 - Az online rendszerek új iparágakat indítottak: e-kereskedelem, távmunka, felhőalapú szolgáltatások.
 - Automatizált üzleti folyamatokat, globális piachoz való hozzáférést biztosított.
+
+</details>
+
+---
+
+<details>
+<summary><h2>❓ Mi az internet?</h2></summary>
+
+💡 Az internet számítógépes hálózatok globális rendszere, amely lehetővé teszi az adatátvitelt, kommunikációt és információmegosztást.
 
 </details>
 

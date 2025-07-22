@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules/**\"",
-    "lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules/**\""
+    "lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules/**\"",
+    "prepare": "husky"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "devDependencies": {
     "eslint": "^9.31.0",
     "eslint-plugin-markdown": "^5.1.0",
+    "husky": "^9.1.7",
     "markdownlint-cli2": "^0.18.1"
   }
 }

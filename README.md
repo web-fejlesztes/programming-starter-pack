@@ -65,6 +65,20 @@ The linter configuration is in the `.markdownlint.json` file. It's configured to
 
 When contributing, please make sure your Markdown files pass the linter check or provide a good reason for exceptions.
 
+### Git Hooks
+
+This project uses Git hooks to enforce code quality standards:
+
+- A **pre-push hook** automatically checks for Markdown linting errors before allowing code to be pushed to the repository
+- This ensures that all Markdown files maintain consistent formatting
+- The hook runs the `lint:md` script to check all Markdown files
+
+If the pre-push hook blocks your push due to linting errors:
+
+1. Run `npm run lint:md` to see the specific errors
+2. Fix the errors manually or run `npm run lint:md:fix` to automatically fix issues where possible
+3. Commit your changes and try pushing again
+
 # Web-programming starter pack (HTML, CSS, JavaScript)
 
 For learning web-programming, you need to learn HTML, CSS, and JavaScript.

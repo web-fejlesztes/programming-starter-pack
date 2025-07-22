@@ -1,9 +1,7 @@
 # Web alapok
 
-## Internet
-
 <details>
-<summary><strong>❓ Mi az internet?</strong></summary>
+<summary><h2>❓ Mi az internet?</h2></summary>
 
 💡 Az internet számítógépes hálózatok globális rendszere, amely lehetővé teszi az adatátvitelt, kommunikációt és információmegosztást.
 
@@ -12,7 +10,7 @@
 ---
 
 <details>
-<summary><strong>❓ Miért volt szükség az internet kialakítására?</strong></summary>
+<summary><h2>❓ Miért volt szükség az internet kialakítására?</h2></summary>
 
 Az internet kialakítására többféle szükséglet és történelmi körülmény miatt került sor:
 
@@ -41,7 +39,7 @@ Az internet kialakítására többféle szükséglet és történelmi körülmé
 ---
 
 <details>
-<summary><strong>❓ Mi az IP-cím, és mire való?</strong></summary>
+<summary><h2>❓ Mi az IP-cím, és mire való?</h2></summary>
 
 💡 Az IP-cím (Internet Protocol Address) egy egyedi azonosító, amely minden internetre csatlakozó eszközt azonosít.
 Olyan, mint egy "lakcím" a hálózaton, amely alapján megtalálhatók az eszközök.
@@ -51,7 +49,7 @@ Olyan, mint egy "lakcím" a hálózaton, amely alapján megtalálhatók az eszk�
 ---
 
 <details>
-<summary><strong>❓ Mi a DNS, és hogyan működik?</strong></summary>
+<summary><h2>❓ Mi a DNS, és hogyan működik?</h2></summary>
 
 💡 A DNS (Domain Name System) egyfajta internetes „telefonkönyv”, amely a domain neveket (pl. google.com)
 IP-címekre fordítja le, hogy a számítógépek tudják, hová kell kapcsolódniuk.

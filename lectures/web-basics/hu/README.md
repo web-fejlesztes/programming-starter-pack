@@ -15,6 +15,8 @@ Az internet előtti korszakban is léteztek különféle módszerek a számító
 
 </details>
 
+---
+
 <details>
 <summary><h2>❓ Miért volt szükség az internet kialakítására?</h2></summary>
 

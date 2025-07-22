@@ -1,0 +1,45 @@
+{
+  // Configuration for markdownlint-cli2
+  // https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+  
+  // Default state for all rules
+  "default": true,
+  
+  // MD013/line-length - Line length
+  "MD013": false, // Disable line length checking as many files exceed the limit
+  
+  // MD033/no-inline-html - Allow HTML in Markdown for educational purposes
+  "MD033": false, // Disable HTML checking as the project uses HTML extensively
+  
+  // MD041/first-line-heading - First line in a file should be a top-level heading
+  "MD041": false, // Disable as some files don't start with headings
+  
+  // MD024/no-duplicate-heading - Allow duplicate headings in different sections
+  "MD024": {
+    "allow_different_nesting": true
+  },
+  
+  // MD025/single-title/single-h1 - Allow multiple top-level headings for educational content
+  "MD025": false,
+  
+  // MD029/ol-prefix - Ordered list item prefix
+  "MD029": false, // Disable as the project uses sequential numbering
+  
+  // MD007/ul-indent - Unordered list indentation
+  "MD007": {
+    // Spaces for indent - match existing style
+    "indent": 4
+  },
+  
+  // MD001/heading-increment - Heading levels
+  "MD001": false, // Disable as the project uses heading levels for styling
+  
+  // MD032/blanks-around-lists - Lists should be surrounded by blank lines
+  "MD032": false, // Disable as the project's formatting style doesn't always include blank lines
+  
+  // MD047/single-trailing-newline - Files should end with a single newline
+  "MD047": true, // Keep this enabled as it's a good practice
+  
+  // Files to ignore
+  "ignores": ["node_modules", ".git"]
+}

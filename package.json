@@ -1,0 +1,28 @@
+{
+  "name": "programming-starter-pack",
+  "version": "1.0.0",
+  "description": "This is a repository for collecting resources to learn programming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"!node_modules/**\"",
+    "lint:md:fix": "markdownlint-cli2 --fix \"**/*.md\" \"!node_modules/**\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kezdo-webfejlesztok/programming-starter-pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kezdo-webfejlesztok/programming-starter-pack/issues"
+  },
+  "homepage": "https://github.com/kezdo-webfejlesztok/programming-starter-pack#readme",
+  "devDependencies": {
+    "eslint": "^9.31.0",
+    "eslint-plugin-markdown": "^5.1.0",
+    "markdownlint-cli2": "^0.18.1"
+  }
+}

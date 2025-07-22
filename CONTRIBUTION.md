@@ -57,7 +57,11 @@ If the pre-push hook blocks your push due to linting errors:
 
 ### CI Pipeline
 
-This project uses GitHub Actions to automatically check Markdown files in the CI pipeline:
+This project uses GitHub Actions to automatically check and fix Markdown files in the CI pipeline:
+
+#### Markdown Lint Workflow
+
+The primary linting workflow checks for Markdown formatting issues:
 
 - A workflow runs whenever Markdown files or linter configuration files are changed
 - It triggers on both push events to main/master branches and pull requests

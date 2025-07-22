@@ -1,8 +1,6 @@
 # JavaScript learning schedule
 
-## Hungarian version
-
-- [01 - JavaScript language basics](./01-javascript-language-basics.hu.md)
+- 01 - JavaScript language basics
   - Syntax
   - Variables
   - Data types

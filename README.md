@@ -39,4 +39,5 @@ You can learn them in any order, but I recommend learning HTML first, then CSS, 
 
 ## Contribution
 
-I you pleased to contribute, then read this [article](./CONTRIBUTION.md)
+If you wish to contribute, please read the [CONTRIBUTION.md](./CONTRIBUTION.md) file for
+guidelines, including information about our Markdown linter and Git hooks.

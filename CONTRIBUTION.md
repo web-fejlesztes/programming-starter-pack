@@ -45,9 +45,9 @@ When contributing, please make sure your Markdown files pass the linter check or
 
 This project uses Git hooks to enforce code quality standards:
 
-- A **pre-push hook** automatically checks for Markdown linting errors before allowing code to be pushed to the repository
-- This ensures that all Markdown files maintain consistent formatting
-- The hook runs the `lint:md` script to check all Markdown files
+- A **pre-commit hook** automatically fixes Markdown linting issues when you commit changes
+- A **pre-push hook** checks for any remaining Markdown linting errors before allowing code to be pushed
+- These hooks ensure that all Markdown files maintain consistent formatting
 
 If the pre-push hook blocks your push due to linting errors:
 
